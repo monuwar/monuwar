@@ -1,68 +1,73 @@
-
 <div align="center">
 
-<!-- Banner Area - Using a more stable version -->
-<img src="https://capsule-render.vercel.app/render?type=rect&color=00FF41&height=150&section=header&text=MONUWAR&fontSize=70&theme=dark&fontAlignY=50" width="100%" />
+<!-- Stable Minimal Header -->
+<img src="https://img.shields.io/badge/TERMINAL-MONUWAR-00FF41?style=for-the-badge&logo=gnumetadatareader&logoColor=black" />
+<img src="https://img.shields.io/badge/STATUS-ENCRYPTED-black?style=for-the-badge&logo=anchor&logoColor=00FF41" />
 
 <br/>
 
-<!-- Typing SVG - Using the most stable domain -->
+<!-- Typing SVG (Most reliable version) -->
 <h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Telegram+Bot+Expert;Automation+Specialist;Backend+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=TELEGRAM+BOT+DEV;AUTOMATION+EXPERT;BACKEND+ENGINEER" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Badges -->
+---
+
+### ⚡ System Identity
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained-Yes-00FF41?style=flat-square&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Online-00FF41?style=flat-square&logo=statuspage&logoColor=black" />
+  <code><b>User:</b> Monuwar</code> | <code><b>Role:</b> Architect</code> | <code><b>Focus:</b> Automation</code>
 </p>
+
+> **"Turning logic into automated reality through high-speed Telegram bots."**
 
 ---
 
-### 🌐 System Overview
-<p align="left">
-  ⚡ <b>Core Focus:</b> Building high-performance Telegram Bots and automation logic.<br/>
-  🛠️ <b>Active Project:</b> Multi-purpose Telegram Utility Bot (High Traffic).<br/>
-  💻 <b>Philosophy:</b> "Code is poetry, written in binary."
-</p>
-
----
-
-### 🖥️ Tech Stack Shell
+### 🛠️ Tech Arsenal (Glassmorphism Icons)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,nodejs,mongodb,linux,docker,git,github,vscode,bash,regex,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,js,nodejs,mongodb,linux,docker,git,github,vscode,bash,regex,postman&theme=dark" />
   </a>
 </p>
+
+---
+
+### 🚀 Flagship Project
+<div align="left">
+<pre>
+<b>Multi-purpose Telegram Utility Bot</b>
+-----------------------------------
+• Real-time automation and management tools.
+• High-traffic stability with asynchronous logic.
+• Scalable backend powered by Python & MongoDB.
+</pre>
+</div>
 
 ---
 
 ### 📊 Real-Time Analytics
-<!-- Stats are combined into one layout for better loading -->
 <p align="center">
-  <img width="98%" src="https://github-readme-stats.vercel.app/api?username=monuwar&show_icons=true&theme=tokyonight&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuwar&layout=compact&theme=tokyonight&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=monuwar&theme=tokyonight&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://github-readme-stats.vercel.app/api?username=monuwar&show_icons=true&theme=tokyonight&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF&icon_color=00FF41" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monuwar&layout=compact&theme=tokyonight&border_color=00FF41&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="400" />
 </p>
 
 ---
 
-### 📟 Secure Connection
+### 📟 Establish Connection
 <p align="center">
   <a href="https://t.me/Avoid_Soul">
-    <img src="https://img.shields.io/badge/Telegram-@Avoid__Soul-00FF41?style=for-the-badge&logo=telegram&logoColor=black" />
+    <img src="https://img.shields.io/badge/TELEGRAM-CONNECT-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/monuwar">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-white?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <code>System.status == "Building the future..."</code>
+  <code>01001000 01100001 01100011 01101011 01100101 01110010</code> <br>
+  <b>Designed with Precision</b>
 </p>
 
 </div>
